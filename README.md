@@ -16,4 +16,6 @@ FavRecon is a web based favicon recon tool made using streamlit. It can be usefu
   pip install -r requirements.txt
   streamlit run favrecon.py
   ```
-  
+##### Note:
+Data about the favicons is taken from this file: [https://github.com/sansatart/scrapts/blob/master/shodan-favicon-hashes.csv](https://github.com/sansatart/scrapts/blob/master/shodan-favicon-hashes.csv)
+
