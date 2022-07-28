@@ -1,0 +1,4 @@
+mmh3==3.0.0
+Pillow==9.2.0
+requests==2.25.1
+streamlit==1.11.0
